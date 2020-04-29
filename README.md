@@ -1082,5 +1082,5 @@ HTTP状态码200表示成功响应，并可能包含内容。如果响应含有�
 
     
 [Bex]: https://www.bex.io
-[English Docs]: https://www.bex.io
+[English Docs]: https://github.com/bex-dev/official-api-docs-master/blob/master/README_EN.md
 [Unix Epoch]: https://en.wikipedia.org/wiki/Unix_time
