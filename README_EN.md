@@ -1094,5 +1094,5 @@ For more error codes, please see the error code description on the homepage
 
     
 [Bex]: https://www.bex.io
-[English Docs]: https://github.com/bex-dev/official-api-docs-master/blob/master/README.md
+[English Docs]: https://github.com/bex-dev/official-api-docs-master/
 [Unix Epoch]: https://en.wikipedia.org/wiki/Unix_time
